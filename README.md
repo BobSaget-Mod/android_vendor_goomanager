@@ -1,0 +1,1 @@
+GooManager beta app
