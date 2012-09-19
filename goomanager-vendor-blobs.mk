@@ -6,3 +6,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
 
 PRODUCT_COPY_FILES +=  \
     vendor/goomanager/proprietary/app/goomanager.apk:system/app/goomanager.apk
+
+PRODUCT_PACKAGES += \
+goomanager \
+    goomanager.apk
